@@ -3524,6 +3524,17 @@
         - PAGE: Larruquert
           name: "Larruquert et al. 2003: n,k 0.000730-0.207 µm"
           data: "main/Yb/Larruquert.yml"
+    - DIVIDER: "Y - Yttrium"
+    - BOOK: Y
+      name: "Y (Yttrium)"
+      info: "main/Y.html"
+      content:
+        - PAGE: Chee
+          name: "Chee et al. 1979: n,k 0.088-0.189 µm"
+          data: "main/Y/Chee.yml"
+        - PAGE: Weaver
+          name: "Weaver et al. 1976: n,k 0.044-2.831 µm"
+          data: "main/Y/Weaver.yml"
     - DIVIDER: "Zn - Zinc"
     - BOOK: Zn
       name: "Zn (Zinc)"

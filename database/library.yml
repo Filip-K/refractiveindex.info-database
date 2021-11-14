@@ -1259,6 +1259,9 @@
         - PAGE: Windt
           name: "Windt et al. 1988: n,k 0.00240-0.122 µm"
           data: "main/Hf/Windt.yml"
+        - PAGE: Lynch
+          name: "Lynch et al. 1975: n,k 0.078-3.691 µm"
+          data: "main/Hf/Lynch.yml"
     - DIVIDER: "Hg - Mercury"
     - BOOK: Hg
       name: "Hg (Mercury)"
